@@ -1,0 +1,2 @@
+# Facial-Biometrics-Encryption-Using-Henon-Ricker-Hybrid-Chaotic-Maps
+A Python-based Thumbnail-Preserving Encryption (TPE) pipeline for facial privacy. By combining image processing with Henon-Ricker chaotic maps, it completely scrambles high-resolution facial features to block AI recognition while keeping low-resolution thumbnail previews perfectly intact for secure cloud browsing and file utility.
