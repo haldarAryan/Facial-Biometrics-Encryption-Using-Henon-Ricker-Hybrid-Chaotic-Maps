@@ -37,10 +37,3 @@ $$y_{n+1} = x_n$$
 * **Testing Infrastructure:** Pillow (PIL) & Matplotlib — for rendering performance comparisons and sub-pixel structural evaluation.
 
 ---
-
-## 📂 Installation & Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/haldarAryan/Facial-Biometrics-Encryption-Using-Henon-Ricker-Hybrid-Chaotic-Maps.git](https://github.com/haldarAryan/Facial-Biometrics-Encryption-Using-Henon-Ricker-Hybrid-Chaotic-Maps.git)
-   cd Facial-Biometrics-Encryption-Using-Henon-Ricker-Hybrid-Chaotic-Maps
